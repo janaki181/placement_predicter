@@ -9,7 +9,7 @@ The app uses a trained **Logistic Regression model** and a fitted **StandardScal
 ## 🚀 Live Demo
 
 Try the deployed app here:  
-👉 [Placement Predictor on Hugging Face Spaces](https://huggingface.co/spaces/<your-username>/<your-space-name>)
+👉 [[Placement Predictor on Hugging Face Spaces](https://huggingface.co/spaces/<your-username>/<your-space-name>)](https://huggingface.co/spaces/janaki181/predict_placement)
 
 > ⚠️ Replace the above link with your actual Hugging Face Space URL.
 
