@@ -11,8 +11,6 @@ The app uses a trained **Logistic Regression model** and a fitted **StandardScal
 Try the deployed app here:  
 👉 [[Placement Predictor on Hugging Face Spaces](https://huggingface.co/spaces/<your-username>/<your-space-name>)](https://huggingface.co/spaces/janaki181/predict_placement)
 
-> ⚠️ Replace the above link with your actual Hugging Face Space URL.
-
 ## 📁 Files in This Repo
 
 - `app.py` or `streamlit_app.py`: Main Streamlit app script
